@@ -1,0 +1,47 @@
+-- TO DO --
+
+-FEATURES-
+Add trap (martin)
+	Takes coins from player
+Add moveWalls (Sylwek)
+	read from a different file
+	if there is an event on a tile, turn that tile to a 0 so that no wall will be spawned
+Don't allow events to spawn on each other (sylwek)
+
+
+-BUGS-
+Health needs to update before GameOver screen comes up
+
+-GRAPHICS-
+Make coins smaller
+Make snakePickup smaller
+Change Origin of dragon pickup
+Add player
+Add winnerScreens x4
+	If player 1 dies
+	If player 2 dies
+	If player 1 escapes
+	If player 2 escapes
+Add snakePickup
+Add doorPickup
+Add trapPickup
+Add rotatePickup
+Add slow
+Add slowAttack
+Add shop
+
+-AUDIO-
+Add Background music
+Add sound when you land on dragon
+Add sound when you land on snake
+Add sound when you land on zoom
+
+-RESTRUCTURE- (everyone)
+Main method
+Engine
+SoundManager
+TextureHolder
+Make code object orientated 
+
+-IF SPARE TIME-
+Make controllers work

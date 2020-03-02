@@ -1,0 +1,28 @@
+-- TO DO --
+
+-FEATURES-
+Don't allow events to spawn on each other (sylwek)
+When player buys item, highlight for 1 second (just put draw highlighted picture in the shop game state with input (not in the proper input place))
+
+-BUGS-
+B Button doesnt work for player 1 but works for player 2
+Pickup 2 rotates/zooms at the same time -> makes player perma rotated/zoomed
+
+-GRAPHICS-
+Start Screen HUD
+
+-AUDIO-
+Add Background music
+Add sound when you land on dragon
+Add sound when you land on snake
+Add sound when you land on zoom
+
+-RESTRUCTURE- (everyone)
+Main method
+Engine
+SoundManager
+TextureHolder
+Make code object orientated 
+
+-FINAL-
+COMMENT THE SHIT OUT OF THE CODE
